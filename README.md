@@ -1,4 +1,4 @@
-#### My programs in Go
+### My programs in Go
 I’m currently available for hire. How to reach me: ignatenkos@mail.ru   
 <div><b>casndrus:</b> Clients persomal data. API using Cassandra and gorilla/mux.</div>
 <img src="images/casndrus.jpg" width="400" alt="pic">
