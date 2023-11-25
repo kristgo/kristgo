@@ -42,7 +42,7 @@ I’m currently available for hire. How to reach me: ignatenkos@mail.ru
 <img src="images/mongodb.jpg" width="400" alt="pic">
 <div><b>oauth2crdl:</b> Articles about OAuth2 on Golang. Authorization using OAuth2 & Javascript.</div>
 <img src="images/oauth2crdl.jpg" width="400" alt="pic">
-<div><b>oauth2gugl:</b> Places of interest in Italy. Places of interest in Italy.</div>
+<div><b>oauth2gugl:</b> Places of interest in Italy. Authorization using Google OAuth2 keys.</div>
 <img src="images/oauth2gugl.jpg" width="400" alt="pic">
 <div><b>oauth2srv:</b> Useful sources on OAuth2 and JWT in Golang. Authorization with OAuth2 & SQLite3.</div>
 <img src="images/oauth2srv.jpg" width="400" alt="pic">
