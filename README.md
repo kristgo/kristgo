@@ -1,6 +1,5 @@
-### I'm Sergey Ignatenko.
+#### My programs in Go
 I’m currently available for hire. How to reach me: ignatenkos@mail.ru   
-**My programs in Go:**   
 <div><b>casndrus:</b> Clients persomal data. API using Cassandra and gorilla/mux.</div>
 <img src="images/casndrus.jpg" width="400" alt="pic">
 <div><b>clikhousqlx:</b> Diff for kids. Click counter using ClickHouse with Adobe Animate CC animation.</div>
