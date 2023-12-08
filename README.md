@@ -26,10 +26,12 @@ I’m currently available for hire. How to reach me: ignatenkos@mail.ru
 <img src="images/influxtran.jpg" width="400" alt="pic">
 <div><b>jaegermysql:</b> Forward geocoding with Mysql and Jaeger. Jaeger in docker & Mysql.</div>
 <img src="images/jaegermysql.jpg" width="400" alt="pic">
-<div><b>jwtgin:</b> Recent books about Golang. Authorization with JWT Gin pgx/4 SQLite GORM.</div>
+<div><b>jwtgin:</b> Recent books about Golang. Authorization with JWT Gin pgx/4 GORM PostgreSQL.</div>
 <img src="images/jwtgin.jpg" width="400" alt="pic">
 <div><b>jwtmux:</b> The best SCI-FI audiobooks, movies, books. Authorization with JWT gorilla/mux GORM SQLite3.</div>
 <img src="images/jwtmux.jpg" width="400" alt="pic">
+<div><b>jwtmysql:</b> Fine art of the Renaissance: Dido and Aeneas. Authorization with JWT and Mysql transactions.</div>
+<img src="images/jwtmysql.jpg" width="400" alt="pic">
 <div><b>kafkaredis:</b> Voting for a best action movie. Kafka data stream using Redis.</div>
 <img src="images/kafkaredis.jpg" width="400" alt="pic">
 <div><b>kubmysql:</b> Phones for games. REST API with MySQL and sql in Kubernetes.</div>
@@ -68,8 +70,6 @@ I’m currently available for hire. How to reach me: ignatenkos@mail.ru
 <img src="images/redistream.jpg" width="400" alt="pic">
 <div><b>request:</b> Go resources for dev tools. REST API with PostgreSQL sqlx and pq.</div>
 <img src="images/request.jpg" width="400" alt="pic">
-<div><b>stream:</b> Interview task to design a service. Data stream to a browser with websocket & gohook.</div>
-<img src="images/stream.jpg" width="400" alt="pic">
 <div><b>sqlite3:</b> The Best Smartphones. REST API with Sqlite3.</div>
 <img src="images/sqlite3.jpg" width="400" alt="pic">
 <div><b>swag:</b> List of the books about Golang. Swagger API using swag PostgreSQL chi pgxpool.</div>
