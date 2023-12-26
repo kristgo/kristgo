@@ -48,7 +48,7 @@ I’m currently available for hire. How to reach me: ignatenkos@mail.ru
 <img src="images/oauth2gugl.jpg" width="400" alt="pic">
 <div><b>oauth2srv:</b> Useful sources on OAuth2 and JWT in Golang. Authorization with OAuth2 & SQLite3.</div>
 <img src="images/oauth2srv.jpg" width="400" alt="pic">
-<div><b>parse:</b> Top rated albums. Website with html page parsing.</div>
+<div><b>parse:</b> Top rated albums. Image generating & html page parsing with load balancer.</div>
 <img src="images/parse.jpg" width="400" alt="pic">
 <div><b>posts:</b> Posts about Golang. Graphql with PostgreSQL.</div>
 <img src="images/posts.jpg" width="400" alt="pic">
@@ -60,7 +60,7 @@ I’m currently available for hire. How to reach me: ignatenkos@mail.ru
 <img src="images/raftbolt.jpg" width="400" alt="pic">
 <div><b>reaktnxtm:</b> Payment system. Next js with typescript Material UI Envoy and Aerospike.</div>
 <img src="images/reaktnxtm.jpg" width="400" alt="pic">
-<div><b>redis:</b> Android games on Google Play. Website using Redis.</div>
+<div><b>redis:</b> Android games on Google Play. Website using Redis with load balancer.</div>
 <img src="images/redis.jpg" width="400" alt="pic">
 <div><b>rediscach:</b> Chat with Redis and Firebase. REST API with Redis cache and Firebase.</div>
 <img src="images/rediscach.jpg" width="400" alt="pic">
